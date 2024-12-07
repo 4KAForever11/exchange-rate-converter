@@ -2,7 +2,7 @@
 
 一个简洁美观的汇率转换工具，基于 Python 和 PySide6 开发。支持全球主要货币之间的实时汇率转换。
 
-![程序截图](screenshots/main.png)
+![screenshots](https://github.com/4KAForever11/exchange-rate-converter/blob/main/main.png)
 
 ## 功能特点
 
