@@ -37,7 +37,7 @@ exchange-rate-converter/
 ### 方式一：直接运行可执行文件
 
 1. 从 [Releases](https://github.com/yourusername/exchange-rate-converter/releases) 页面下载最新版本
-2. 解压后双击运行 `汇率转换器.exe`
+2. 解压后双击运行 `exchange-rate.exe`
 
 ### 方式二：从源码运行
 
